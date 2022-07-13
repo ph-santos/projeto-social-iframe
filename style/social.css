@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Tira a barra de rolagem */
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
+
+img {
+    width: 100vw;
+}
+
+a {
+    display: block;
+    background: #8b0000;
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a:hover {
+    background: #ff0000;
+    transition: background 0.2s;
+}
