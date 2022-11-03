@@ -11,9 +11,9 @@ Esse projeto tem como principal objeto treinar o uso de iframe e também fazer a
 ![Web 1](https://github.com/ph-santos/projeto-social-iframe/blob/main/images/Captura%20de%20tela%202022-11-02%20075332oi.png)
 
 
+# Tecnologias utilizadas
 ## Front end
 - HTML / CSS 
-
 
 # Autor
 
